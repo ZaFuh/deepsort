@@ -1,4 +1,6 @@
 #tracks but really bad 
+#1. use trail5.zip, !unzip trail5.zip, 
+#2. !cd Trial5, install ultra alitics lib: %pip install ultralytics
 
 #4: tryign to track with IDs not switching so quick=> still really bad
 
